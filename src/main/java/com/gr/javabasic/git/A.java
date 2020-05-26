@@ -8,5 +8,6 @@ public class A {
         System.out.println("主干添加");
         System.out.println("分支添加");
         System.out.println("github添加");
+        System.out.println("github添加2");
     }
 }
